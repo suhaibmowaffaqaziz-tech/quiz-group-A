@@ -1,0 +1,22 @@
+const questions = [
+    { q: "Which of the following is a primary clinical sign of zinc deficiency?", o: ["Acrodermatitis", "Goiter", "Hyperthyroidism", "Muscle hypertrophy"], a: 0 },
+    { q: "Which enzyme is essential for the conversion of urea to ammonia in the urea assay?", o: ["AST", "Urease", "ALP", "ALT"], a: 1 },
+    { q: "What is the primary diagnostic advantage of measuring creatinine over urea?", o: ["It is not affected by protein intake", "It is cheaper to test", "It is more abundant in serum", "It is produced in the liver"], a: 0 },
+    { q: "Which enzyme is found in highest concentrations in the liver and is highly indicative of hepatic necrosis?", o: ["AST", "ALP", "ALT", "Urease"], a: 2 },
+    { q: "Why are Alkaline Phosphatase (ALP) levels significantly higher in children?", o: ["Due to high liver function", "Due to bone growth", "Due to high dietary intake", "Due to kidney activity"], a: 1 },
+    { q: "What is the product of the reaction between creatinine and alkaline picrate?", o: ["Blue-green dye", "Reddish-orange color", "Colorless gas", "Yellow precipitate"], a: 1 },
+    { q: "What is the main function of Iodine in the human body?", o: ["Synthesis of thyroid hormones (T3/T4)", "Muscle contraction", "DNA repair", "Liver detoxification"], a: 0 },
+    { q: "Which mineral is a required cofactor for more than 300 enzymes?", o: ["Iron", "Zinc", "Iodine", "Calcium"], a: 1 },
+    { q: "What does the Urea/Creatinine ratio > 15 typically indicate?", o: ["Normal kidney function", "Pre-renal failure", "Liver failure", "Muscle dystrophy"], a: 1 },
+    { q: "In the AST assay, what indicator reaction uses Malate Dehydrogenase (MDH)?", o: ["Reduction of oxaloacetate", "Oxidation of Alanine", "Hydrolysis of urea", "Formation of creatinine"], a: 0 },
+    { q: "Which test is preferred for assessing population-level iodine status?", o: ["Serum iodine", "Urinary iodine", "Thyroid hormone levels", "Serum creatinine"], a: 1 },
+    { q: "Which enzyme is commonly elevated in biliary tract obstruction?", o: ["ALT", "ALP", "Urease", "AST"], a: 1 },
+    { q: "In the Berthelot reaction for urea, what color is produced?", o: ["Red", "Blue-green", "Yellow", "Colorless"], a: 1 },
+    { q: "What is the precursor of creatinine in muscle tissue?", o: ["Alanine", "Phospho Creatinine", "Aspartate", "Ammonia"], a: 1 },
+    { q: "What is the clinical significance of elevated AST levels in cardiac muscle?", o: ["Myocardial infarction", "Liver cirrhosis", "Renal failure", "Diabetes"], a: 0 },
+    { q: "What is the main reason for zinc deficiency in many individuals?", o: ["High iron intake", "Low dietary intake and bioavailability", "Excessive exercise", "Thyroid overactivity"], a: 1 },
+    { q: "Which enzyme is specifically used to prevent endogenous pyruvate interference in AST/ALT tests?", o: ["LDH", "MDH", "Urease", "Phosphatase"], a: 0 },
+    { q: "ALP is often used to monitor the function of which organ during pregnancy?", o: ["Kidney", "Placenta", "Liver", "Heart"], a: 1 },
+    { q: "What is a clinical consequence of severe iodine deficiency?", o: ["Goiter", "Diabetes", "Obesity", "Liver necrosis"], a: 0 },
+    { q: "Which molecule is oxidized to NAD+ during the ALT/AST test?", o: ["NADH", "Alanine", "Urea", "Aspartate"], a: 0 }
+];
